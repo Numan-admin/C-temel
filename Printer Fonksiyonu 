@@ -1,0 +1,17 @@
+/* main.c : ilk programımız */
+#include  <stdio.h>
+#include <stdlib.h>
+
+int main()
+{
+  printf("1.hello world!\n");
+  printf("2.hello ");
+  printf("world!\n");
+  printf("\n");
+  printf("aaaaa\t");
+  printf("bbbbb\n");
+  printf("ccccc\t");
+  printf("ddddd\n");
+  printf("\n");
+  return 0;
+}
